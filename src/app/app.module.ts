@@ -19,7 +19,7 @@ import { InMemoryDataService } from './in-memory-data.service';
     HeroesComponent,
     HeroDetailComponent,
     MessagesComponent,
-    HttpClientModule,
+    //HttpClientModule,
     DashboardComponent
   ],
   imports: [
